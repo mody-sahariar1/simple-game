@@ -1,0 +1,32 @@
+body {
+  background-color: #111;
+  color: white;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+#play-btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+#game-area {
+  width: 600px;
+  height: 400px;
+  margin: 20px auto;
+  background-color: #222;
+  border: 2px solid white;
+  position: relative;
+  overflow: hidden;
+}
+
+#player {
+  width: 40px;
+  height: 40px;
+  background-color: red;
+  position: absolute;
+  top: 180px;
+  left: 0;
+}
