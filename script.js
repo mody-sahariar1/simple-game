@@ -25,3 +25,5 @@ playBtn.addEventListener("click", () => {
     animate();
   }
 });
+
+/* dev note: see README Roadmap + issues for planned enhancements. */
